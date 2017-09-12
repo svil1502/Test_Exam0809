@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="EXAM" uuid="a720f609-bc7d-487d-8a6d-9312e1ccb136">
+      <driver-ref>3317f079-7b67-4534-8b03-f542b619bd31</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.firebirdsql.jdbc.FBDriver</jdbc-driver>
+      <jdbc-url>jdbc:firebirdsql:localhost/3050:$PROJECT_DIR$/EXAM.FDB</jdbc-url>
+    </data-source>
+  </component>
+</project>
